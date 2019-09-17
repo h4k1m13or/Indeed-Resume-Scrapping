@@ -1,2 +1,2 @@
 # Indeed-Resume-Scrapping
-collect resumes from indees.com 
+collect resumes from indeed.com 
