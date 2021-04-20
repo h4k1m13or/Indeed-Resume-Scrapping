@@ -1,2 +1,2 @@
 # Indeed-Resume-Scrapping
-collect resumes from indeed.com 
+collect resumes from indeed.com with selenium
